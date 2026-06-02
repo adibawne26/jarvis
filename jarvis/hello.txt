@@ -1,2 +1,3 @@
 Some other file says HELLO!
 Hello from feature
+Hello from feature3
